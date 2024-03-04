@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Riette van Rooyen riette.vanrooyen@csgi.com @itsme
 
 # THANKS
 
